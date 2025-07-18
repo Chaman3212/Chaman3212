@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Chaman, a B.Tech student passionate about web development and cybersecurity.<br><br>🌐 Currently building a website like Airbnb using the MERN stack (MongoDB, Express, React, Node.js).<br><br>💻 Learning and working with Tailwind CSS, MongoDB, and JavaScript.<br><br>🔐 Completed OWASP Top 10 (2021) certification and interested in building secure web applications.<br><br>📈 Improving my English, public speaking, and problem-solving skills.<br><br>🤝 Looking to collaborate on open-source web or AI projects.<br><br>🎯 My goal: Become a full-stack developer and work with global clients.
+Hi, I’m Chaman, a B.Tech student passionate about web development and AI-Data Science.<br><br>🌐 Currently building some Amazing full Stack Projects using the MERN stack (MongoDB, Express, React, Node.js).<br><br>💻 Learning and working with Tailwind CSS, Bootstrap, MongoDB, and JavaScript.<br><br>🔐 Completed OWASP Top 10 (2021) certification and interested in building secure web applications.<br><br>📈 Improving my English, public speaking, and problem-solving skills.<br><br>🤝 Looking to collaborate on open-source web or AI projects.<br><br>🎯 My goal: Become a full-stack developer and work with global clients.
 
 
 ## 🌐 Socials:
